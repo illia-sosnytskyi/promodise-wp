@@ -1,0 +1,3 @@
+[submodule "promodise"]
+	path = promodise
+	url = https://github.com/illia-sosnytskyi/promodise.git
